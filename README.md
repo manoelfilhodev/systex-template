@@ -72,15 +72,15 @@ php artisan serve
 Acesse: http://localhost:8000
 ```
 
-🔥 Como Usar como Template
+## 🔥 Como Usar como Template
 No GitHub, clique em "Use this template" para criar um novo projeto baseado nesse repositório.
 
-🧠 License
+## 🧠 License
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-💻 Desenvolvido por
+## 💻 Desenvolvido por
 SYSTEX Sistemas Inteligentes
 🌐 systex.com.br
 📧 contato@systex.com.br
 
-Feito com 💻, ☕ e 🚀 por Manoel Filho • SYSTEX Sistemas Inteligentes
+## Feito com 💻, ☕ e 🚀 por Manoel Filho • SYSTEX Sistemas Inteligentes
