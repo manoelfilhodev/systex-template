@@ -46,10 +46,12 @@ Template base para desenvolvimento de sistemas com Laravel, utilizando autentica
 ```bash
 git clone https://github.com/manoelfilhodev/systex-template.git
 cd systex-template
+```
 
 2️⃣ Instale as dependências PHP:
-
+```bash
 composer install
+```
 
 3️⃣ Instale as dependências frontend (opcional):
 
