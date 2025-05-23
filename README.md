@@ -54,22 +54,23 @@ composer install
 ```
 
 3️⃣ Instale as dependências frontend (opcional):
-
+```bash
 npm install && npm run build
-
+```
 4️⃣ Configure o ambiente:
-
+```bash
 cp .env.example .env
 php artisan key:generate
-
+```
 5️⃣ Configure o banco no .env e execute as migrations:
-
+```bash
 php artisan migrate
-
+```
 6️⃣ Rode o servidor local:
-
+```bash
 php artisan serve
 Acesse: http://localhost:8000
+```
 
 🔥 Como Usar como Template
 No GitHub, clique em "Use this template" para criar um novo projeto baseado nesse repositório.
